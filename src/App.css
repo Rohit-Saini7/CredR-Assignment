@@ -232,6 +232,7 @@ body {
   }
   .offer-box {
     max-width: 450px;
+    color: black;
   }
   .personal-details {
     position: static;
